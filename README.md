@@ -1,55 +1,26 @@
-# NETFLIX-ANALYSIS
-1.Project Title
+# Netflix Movies & TV Shows Analysis (Tableau)
 
-Netflix Movies & TV Shows Analytics Dashboard
+## Overview
+This project is an interactive Tableau dashboard analyzing Netflix movies and TV shows by genre, rating, country, release year, and content type. The dashboard helps identify content distribution patterns and release trends.
 
-2.Project Description
+## Tool Used
+- Tableau
 
-Developed an interactive data analytics dashboard using Tableau to analyze Netflix movies and TV shows across multiple dimensions such as content type, genre, rating, country, duration, and release year. The project focuses on identifying global content distribution, popular genres, rating patterns, and historical trends to support data-driven insights into Netflix’s content library.
+## Analysis Covered
+- Movies vs TV Shows distribution
+- Content count by country
+- Content count by genre
+- Rating-wise content breakdown
+- Release year trend analysis
 
-3.Tech Stack
+## Key Features
+- Interactive filters for type, rating, release year, duration, and genre
+- Visuals include bar charts, maps, and trend lines
+- Designed for quick exploratory analysis
 
-Data Visualization Tool: Tableau
+## Files Included
+- Tableau dashboard screenshots
+- Dataset (if included)
 
-Data Source Format: CSV / Excel
-
-Data Analysis: Exploratory Data Analysis (EDA)
-
-Mapping: Tableau Maps (Geographical Analysis)
-
-Operating System: Windows
-
-4.Data Sources
-
-Public Netflix Movies & TV Shows dataset (CSV format)
-
-Dataset includes:
-
-Title type (Movie / TV Show)
-
-Genre
-
-Country
-
-Rating
-
-Duration
-
-Release year
-
-Date added
-
-5.Key Features
-
-Content Distribution Analysis: Compared Movies vs TV Shows using visual breakdowns.
-
-Genre & Rating Insights: Identified top genres and rating patterns using bar charts.
-
-Geographical Analysis: Visualized country-wise content distribution using maps.
-
-Trend Analysis:
-
-6.Screenshot:<img width="1911" height="1045" alt="Screenshot 2026-01-11 134359" src="https://github.com/user-attachments/assets/e5ebf9f7-6b67-4f98-93d7-95e5d96608d6" />
-Example:https://github.com/selvamselva06723-ui/NETFLIX-ANALYSIS/edit/main/README.md
-
-
+## Screenshots
+(Add screenshots in this repository)
